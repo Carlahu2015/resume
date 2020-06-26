@@ -6,20 +6,11 @@ body {
   background-color:#0088ff;
   font-family: 'Raleway', sans-serif;
 }
-#ribbon {
-  position:absolute;
-  background-color:red;
-  color:white;
-  top:40px;
-  left:-30px;
-  width:160px;
-  transform:rotate(-45deg);
-  text-align:center;
-}
+
 #container {
   position:relative;
-  width:80%;
-  margin:5% auto;
+  width:100%;
+  margin:auto;
   background-color:black;
   box-shadow: -2px -2px 5px white,2px -2px 5px white;
 }
