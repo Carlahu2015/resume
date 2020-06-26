@@ -56,7 +56,7 @@ body {
 }
 #container > nav > ul > li:hover {
   border-bottom: 2px solid white;
-  background-color: #0088ff;
+  background-color: #c2c9cc;
 }
 #container > nav > ul > .dropdown:hover {
   border-bottom:none;
